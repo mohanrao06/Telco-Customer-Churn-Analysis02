@@ -4,7 +4,7 @@ This project focuses on understanding and analyzing customer churn in a telecom 
 
 ---
 
-## 📁 Table of Contents
+## 📁 Table Of Contents
 
 - [Project Overview](#project-overview)
 - [Problem Statement](#problem-statement)
