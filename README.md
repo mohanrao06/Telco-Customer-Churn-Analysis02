@@ -36,7 +36,7 @@ Customer churn is a major problem in the telecom industry. Understanding why cus
 
 ## 📊 Dataset
 
-- **Source**: [Kaggle / IBM Sample Dataset / Public Dataset]
+- **Source**: [Public Dataset
 - **Total Records**: ~7,000 customer records
 - **Features**:
   - Customer demographics (gender, age, etc.)
