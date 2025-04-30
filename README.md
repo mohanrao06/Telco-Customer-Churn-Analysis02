@@ -1,6 +1,6 @@
 # 📊 Telecom Customer Churn Analysis
 
-This project focuses on understanding and analyzing customer churn in a telecom company using real-world data. The goal is to identify key factors that contribute to customer churn and provide actionable insights to reduce churn Rates and improve customer retention.
+This project focuses on understanding and analyzing customer churn in a telecom Company using real-world data. The goal is to identify key factors that contribute to customer churn and provide actionable insights to reduce churn Rates and improve customer retention.
 
 ---
 
